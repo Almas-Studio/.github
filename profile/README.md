@@ -1,6 +1,6 @@
 ## This Is Almas Studio
 
-The final goal of this project is to create the "Alams Studio" Project but we not there yet.
+The final goal of this organization is to create the "Alams Studio" Project but we are not there yet.
 
 
 This organization is home to "Prayer Times" and "Meme Box"!
